@@ -34,5 +34,7 @@ def using_uniq(royMustang)
   royMustang.uniq 
 end
 
-def using_flatten()
-  
+def using_flatten(donQ)
+  donQ.flatten 
+end
+
