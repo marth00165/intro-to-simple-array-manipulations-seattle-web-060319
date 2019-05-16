@@ -6,4 +6,5 @@ def using_unshift(goku, vegeta)
   goku.unshift(vegeta)
 end
 
-def 
+def using_pop(madara)
+  
