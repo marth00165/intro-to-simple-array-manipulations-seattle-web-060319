@@ -23,5 +23,8 @@ def shift_with_args(fullMetal)
 end
 
 def using_concat(one, two)
-  one.
+  one.concat(two)
+end
+
+def using_
   
