@@ -10,4 +10,9 @@ def using_pop(madara)
   madara.pop 
 end
 
-def using_pop_with
+def pop_with_args(greed)
+  greed.pop(2)
+end
+
+def 
+  
