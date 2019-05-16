@@ -18,5 +18,9 @@ def using_shift(tobi)
   tobi.shift 
 end
 
+def shift_with_args(fullMetal)
+  fullMetal.shift(2)
+end
 
+def 
   
