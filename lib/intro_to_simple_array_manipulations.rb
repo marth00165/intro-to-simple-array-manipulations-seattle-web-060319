@@ -27,7 +27,7 @@ def using_concat(one, two)
 end
 
 def using_insert(sasuke, chidori)
-  sasuke.insert(chidori)
+  sasuke.insert( 4 ,chidori)
 end
 
 def 
