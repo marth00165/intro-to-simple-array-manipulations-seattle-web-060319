@@ -43,4 +43,6 @@ def using_delete(nas, jayZ)
 end
 
 def using_delete_at(theGame, gUnit)
-  theGame.delete_at 
+  theGame.delete_at(gUnit)
+end
+
