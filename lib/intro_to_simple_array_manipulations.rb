@@ -31,5 +31,8 @@ def using_insert(sasuke, chidori)
 end
 
 def using_uniq(royMustang)
-  
+  royMustang.uniq 
+end
+
+def 
   
