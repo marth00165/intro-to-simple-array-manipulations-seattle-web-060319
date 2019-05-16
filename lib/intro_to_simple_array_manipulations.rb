@@ -22,5 +22,6 @@ def shift_with_args(fullMetal)
   fullMetal.shift(2)
 end
 
-def using_concat
+def using_concat(one, two)
+  one.
   
