@@ -14,5 +14,9 @@ def pop_with_args(greed)
   greed.pop(2)
 end
 
-def 
+def using_shift(tobi)
+  tobi.shift 
+end
+
+
   
